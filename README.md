@@ -10,7 +10,3 @@ Visit [Color Hunt](https://colorhunt.co) for amazing RGB and gradient colors.
 
 It's just a UI based app with no functionality.
 
-# Dicee
-
-I have made a Las Vegas dice app. We can make the die roll at the press of a button or by shaking our phone. With this app in our pocket, we’ll be fully set up to settle any score on the go!
-
